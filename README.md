@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Cryptocurrencies and Forex**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14ynAVJNa1x8NJpl4U25Znc-NLGlfIHXU/view?usp=sharing](https://bit.ly/3wGMqa4)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/14ynAVJNa1x8NJpl4U25Znc-NLGlfIHXU/view?usp=sharing)
 
 - ⚡ Fun fact **I know Technical Analysis**
 
