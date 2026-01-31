@@ -1,35 +1,71 @@
-<h1 align="center">Hi 👋, I'm Aayush</h1>
-<h3 align="center">A passionate Forex Trader who is making way in Web3 Development</h3>
-<img align="right" alt="GIF" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="400">
+# Hey, I'm Aayush 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushnamdev&label=Profile%20views&color=0e75b6&style=flat" alt="aayushnamdev" /> </p>
+### AI Builder · Psychology × Markets × Real-Time Systems
 
-<p align="left"> <a href="https://twitter.com/47_nig" target="blank"><img src="https://img.shields.io/twitter/follow/47_nig?logo=twitter&style=for-the-badge" alt="47_nig" /></a> </p>
+I build AI systems that understand human behavior. Currently completing an MA in Psychology while shipping production-grade AI platforms.
 
-- 🔭 I’m currently working on **Web3 Skills**
+I use frontier models (Claude, Gemini, GPT) as technical copilots — but I own every architecture decision, system design choice, and product call.
 
-- 🌱 I’m currently learning **HTML and CSS**
+---
 
-- 👯 I’m looking to collaborate on **EVM Compatible Dapps**
+### 🔨 What I'm Building
 
-- 🤝 I’m looking for help with **CSS and Javascript**
+**[PULSE](https://github.com/aayushnamdev)** — Real-Time Sentiment Intelligence Platform
+> Aggregates Reddit, Twitter/X, and Polymarket data to detect market-moving themes 12–48hrs before mainstream coverage. Multi-source triangulation, AI synthesis, WebSocket-powered dashboards.
+>
+> `FastAPI` `React` `TypeScript` `Supabase` `PostgreSQL` `Redis` `WebSockets`
 
-- 💬 Ask me about **Cryptocurrencies and Forex**
+**[Psycho Trader AI](https://github.com/aayushnamdev)** — Behavioral AI Reflection System
+> AI-assisted behavioral pattern recognition for traders under cognitive and emotional pressure. Structured prompt architecture, database-backed memory, psychological observation engine.
+>
+> `Python` `FastAPI` `Supabase` `LLM Orchestration`
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/14ynAVJNa1x8NJpl4U25Znc-NLGlfIHXU/view?usp=sharing)
+**TradingView Indicators** — Custom Pine Script Tools
+> Fair Value Gap detectors, Market Structure Shift indicators, Multi-Confirmation Engine for real-time session trading. Risk-reward calculators with drag-and-drop price levels.
+>
+> `Pine Script`
 
-- ⚡ Fun fact **I know Technical Analysis**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/47_nig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="47_nig" height="30" width="40" /></a>
+### ⚡ Tech I Work With
+
+```
+Languages      Python · JavaScript · TypeScript · Pine Script
+Backend        FastAPI · REST APIs · WebSockets · Async Processing
+Frontend       React · Tailwind CSS · shadcn/ui · Framer Motion
+AI/ML          Claude · Gemini · GPT · Prompt Engineering · LLM Orchestration
+Data           Supabase · PostgreSQL · Redis · Sentiment Analysis · NLP
+Infra          Railway · Git · VS Code
+```
+
+---
+
+### 🧠 Background
+
+- **MA Psychology** — Chandigarh University (ongoing)
+- **Funded Prop Trader** — $100K proprietary capital, rule-based risk management
+- **BBA** — Amity University, Noida
+
+I don't just study human behavior — I build software that operationalizes it.
+
+---
+
+### 📬 Let's Connect
+
+[![Email](https://img.shields.io/badge/Email-aayushnamdev20000@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:aayushnamdev20000@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aayush%20Namdev-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tjreborn/)
+[![Twitter](https://img.shields.io/badge/Twitter-@47__nig-1DA1F2?style=flat&logo=x&logoColor=white)](https://twitter.com/47_nig)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aayushnamdev&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="aayushnamdev" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayushnamdev&theme=tokyonight&hide_border=true" alt="aayushnamdev" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayushnamdev&show_icons=true&locale=en&layout=compact" alt="aayushnamdev" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aayushnamdev&show_icons=true&locale=en" alt="aayushnamdev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayushnamdev&" alt="aayushnamdev" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aayushnamdev&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="aayushnamdev" />
+</p>
