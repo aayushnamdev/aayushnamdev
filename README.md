@@ -10,12 +10,12 @@ I use frontier models (Claude, Gemini, GPT) as technical copilots — but I own 
 
 ### 🔨 What I'm Building
 
-**[PULSE](https://github.com/aayushnamdev)** — Real-Time Sentiment Intelligence Platform
+**[PULSE](https://github.com/aayushnamdev/Pulse_New)** — Real-Time Sentiment Intelligence Platform
 > Aggregates Reddit, Twitter/X, and Polymarket data to detect market-moving themes 12–48hrs before mainstream coverage. Multi-source triangulation, AI synthesis, WebSocket-powered dashboards.
 >
 > `FastAPI` `React` `TypeScript` `Supabase` `PostgreSQL` `Redis` `WebSockets`
 
-**[Psycho Trader AI](https://github.com/aayushnamdev)** — Behavioral AI Reflection System
+**[Psycho Trader AI](https://github.com/aayushnamdev/psycho-trader-ai)** — Behavioral AI Reflection System
 > AI-assisted behavioral pattern recognition for traders under cognitive and emotional pressure. Structured prompt architecture, database-backed memory, psychological observation engine.
 >
 > `Python` `FastAPI` `Supabase` `LLM Orchestration`
