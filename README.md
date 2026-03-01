@@ -10,17 +10,36 @@ I use frontier models (Claude, Gemini, GPT) as technical copilots — but I own 
 
 ### 🔨 What I'm Building
 
-**[PULSE](https://github.com/aayushnamdev/Pulse_New)** — Real-Time Sentiment Intelligence Platform
+**[PULSE](https://github.com/aayushnamdev/Pulse_New)** — Real-Time Sentiment Intelligence Platform `[In Progress]`
+
 > Aggregates Reddit, Twitter/X, and Polymarket data to detect market-moving themes 12–48hrs before mainstream coverage. Multi-source triangulation, AI synthesis, WebSocket-powered dashboards.
 >
 > `FastAPI` `React` `TypeScript` `Supabase` `PostgreSQL` `Redis` `WebSockets`
 
-**[Psycho Trader AI](https://github.com/aayushnamdev/psycho-trader-ai)** — Behavioral AI Reflection System
+---
+
+### ✅ Shipped
+
+**[Unload AI](https://github.com/aayushnamdev/Unload-AI)** — AI-Powered Cognitive Relief App · [Live →](https://mindclear-eta.vercel.app)
+
+> Dump your mental chaos (text or voice), get AI-powered clarity. Claude extracts tasks, commitments, and deadlines — then surfaces exactly 3 focus items each morning. Built and deployed in 7 days.
+>
+> `Next.js` `TypeScript` `Supabase` `Claude API` `Deepgram` `Tailwind CSS`
+
+**[GrabCredit BNPL](https://github.com/aayushnamdev/grabcredit-bnpl)** — AI-Powered Buy Now, Pay Later Engine
+
+> Behavioral credit scoring system for GrabOn's checkout — no CIBIL score, no paperwork. Reads transaction history to produce a 0–1000 score across 5 behavioral factors, generates instant EMI offers with AI-written explanations, and integrates PayU LazyPay. MCP server exposes all credit logic as tools directly queryable from Claude Desktop.
+>
+> `TypeScript` `Next.js` `MCP` `Claude API` `PayU LazyPay`
+
+**[Psycho Trader AI](https://github.com/aayushnamdev/psycho-trader-ai)** — Behavioral AI Reflection System for Traders
+
 > AI-assisted behavioral pattern recognition for traders under cognitive and emotional pressure. Structured prompt architecture, database-backed memory, psychological observation engine.
 >
 > `Python` `FastAPI` `Supabase` `LLM Orchestration`
 
 **TradingView Indicators** — Custom Pine Script Tools
+
 > Fair Value Gap detectors, Market Structure Shift indicators, Multi-Confirmation Engine for real-time session trading. Risk-reward calculators with drag-and-drop price levels.
 >
 > `Pine Script`
@@ -31,20 +50,20 @@ I use frontier models (Claude, Gemini, GPT) as technical copilots — but I own 
 
 ```
 Languages      Python · JavaScript · TypeScript · Pine Script
-Backend        FastAPI · REST APIs · WebSockets · Async Processing
-Frontend       React · Tailwind CSS · shadcn/ui · Framer Motion
+Backend        FastAPI · REST APIs · WebSockets · Async Processing · MCP
+Frontend       React · Next.js · Tailwind CSS · shadcn/ui · Framer Motion
 AI/ML          Claude · Gemini · GPT · Prompt Engineering · LLM Orchestration
 Data           Supabase · PostgreSQL · Redis · Sentiment Analysis · NLP
-Infra          Railway · Git · VS Code
+Infra          Vercel · Railway · Git · VS Code
 ```
 
 ---
 
 ### 🧠 Background
 
-- **MA Psychology** — Chandigarh University (ongoing)
-- **Funded Prop Trader** — $100K proprietary capital, rule-based risk management
-- **BBA** — Amity University, Noida
+* **MA Psychology** — Chandigarh University (ongoing)
+* **Funded Prop Trader** — $100K proprietary capital, rule-based risk management
+* **BBA** — Amity University, Noida
 
 I don't just study human behavior — I build software that operationalizes it.
 
@@ -58,14 +77,8 @@ I don't just study human behavior — I build software that operationalizes it.
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aayushnamdev&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="aayushnamdev" />
-</p>
+[![aayushnamdev](https://github-readme-stats.vercel.app/api?username=aayushnamdev&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/aayushnamdev)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayushnamdev&theme=tokyonight&hide_border=true" alt="aayushnamdev" />
-</p>
+[![aayushnamdev](https://github-readme-streak-stats.herokuapp.com/?user=aayushnamdev&theme=tokyonight&hide_border=true)](https://github.com/aayushnamdev)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aayushnamdev&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="aayushnamdev" />
-</p>
+[![aayushnamdev](https://github-readme-stats.vercel.app/api/top-langs?username=aayushnamdev&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact)](https://github.com/aayushnamdev)
