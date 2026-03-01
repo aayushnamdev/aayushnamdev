@@ -77,8 +77,4 @@ I don't just study human behavior — I build software that operationalizes it.
 
 ---
 
-[![aayushnamdev](https://github-readme-stats.vercel.app/api?username=aayushnamdev&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/aayushnamdev)
 
-[![aayushnamdev](https://github-readme-streak-stats.herokuapp.com/?user=aayushnamdev&theme=tokyonight&hide_border=true)](https://github.com/aayushnamdev)
-
-[![aayushnamdev](https://github-readme-stats.vercel.app/api/top-langs?username=aayushnamdev&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact)](https://github.com/aayushnamdev)
