@@ -32,6 +32,12 @@ I use frontier models (Claude, Gemini, GPT) as technical copilots — but I own 
 >
 > `TypeScript` `Next.js` `MCP` `Claude API` `PayU LazyPay`
 
+**[TradeRoot](https://github.com/aayushnamdev/traderoot-landing)** — Trading Psychology Coaching Practice · [Live →](https://aayushnamdev.github.io/traderoot-landing)
+
+> Performance coaching for prop firm and futures traders who know their edge but can't execute it consistently. Co-founded with Khushi Narwal (MA Psychology). The method draws on psychodynamic tradition, object relations theory, and Rogers' client-centered therapy — applied specifically to trading behavior. Landing page designed in Claude Design, deployed as a static site.
+>
+> `HTML/CSS/JS` `Claude Design` `Trading Psychology` `1-on-1 Coaching`
+
 **[Psycho Trader AI](https://github.com/aayushnamdev/psycho-trader-ai)** — Behavioral AI Reflection System for Traders
 
 > AI-assisted behavioral pattern recognition for traders under cognitive and emotional pressure. Structured prompt architecture, database-backed memory, psychological observation engine.
