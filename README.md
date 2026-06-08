@@ -1,14 +1,22 @@
 # Hey, I'm Aayush 👋
 
-### AI Builder · Psychology × Markets × Real-Time Systems
+### AI Builder · Technical Writer · Psychology × Markets × Real-Time Systems
 
-I build AI systems that understand human behavior. Currently completing an MA in Psychology while shipping production-grade AI platforms.
+I build AI systems that understand human behavior — and AI tools that explain software to the humans who don't write it.
 
 I use frontier models (Claude, Gemini, GPT) as technical copilots — but I own every architecture decision, system design choice, and product call.
 
 ---
 
 ### 🔨 What I'm Building
+
+**[Lucid](https://github.com/aayushnamdev/Lucid)** — AI Documentation Generator `[Active — Building in Public]`
+
+> Paste a GitHub URL. Get two self-contained HTML pages: an explainer any non-coder can read in 10 minutes, and a getting-started guide a developer can follow in 5. Pure AST analysis + 6 LLM synthesis calls. No templates — each page is designed for the repo's personality.
+>
+> Built as Phase 1 of a decade-long arc toward Staff/Principal Document Engineer. The gap no one owns: full Diataxis documentation (Explanation + Tutorial + How-to + Reference) for any arbitrary repo, automatically.
+>
+> `Python` `FastAPI` `OpenAI` `AST` `HTML/CSS`
 
 **[PULSE](https://github.com/aayushnamdev/Pulse_New)** — Real-Time Sentiment Intelligence Platform `[In Progress]`
 
@@ -34,7 +42,7 @@ I use frontier models (Claude, Gemini, GPT) as technical copilots — but I own 
 
 **[TradeRoot](https://github.com/aayushnamdev/traderoot-landing)** — Trading Psychology Coaching Practice · [Live →](https://aayushnamdev.github.io/traderoot-landing)
 
-> Performance coaching for prop firm and futures traders who know their edge but can't execute it consistently. Co-founded with Khushi Narwal (MA Psychology). The method draws on psychodynamic tradition, object relations theory, and Rogers' client-centered therapy — applied specifically to trading behavior. Landing page designed in Claude Design, deployed as a static site.
+> Performance coaching for prop firm and futures traders who know their edge but can't execute it consistently. Co-founded with Khushi Narwal (MA Psychology). The method draws on psychodynamic tradition, object relations theory, and Rogers' client-centered therapy — applied specifically to trading behavior.
 >
 > `HTML/CSS/JS` `Claude Design` `Trading Psychology` `1-on-1 Coaching`
 
@@ -61,6 +69,7 @@ Frontend       React · Next.js · Tailwind CSS · shadcn/ui · Framer Motion
 AI/ML          Claude · Gemini · GPT · Prompt Engineering · LLM Orchestration
 Data           Supabase · PostgreSQL · Redis · Sentiment Analysis · NLP
 Infra          Vercel · Railway · Git · VS Code
+Docs           Diataxis framework · AST analysis · HTML/CSS design systems
 ```
 
 ---
@@ -80,7 +89,3 @@ I don't just study human behavior — I build software that operationalizes it.
 [![Email](https://img.shields.io/badge/Email-aayushnamdev20000@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:aayushnamdev20000@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aayush%20Namdev-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tjreborn/)
 [![Twitter](https://img.shields.io/badge/Twitter-@47__nig-1DA1F2?style=flat&logo=x&logoColor=white)](https://twitter.com/47_nig)
-
----
-
-
